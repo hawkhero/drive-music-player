@@ -4,7 +4,7 @@
   "launch_path": "/",
   "description" : "Music and Audio files player for Google Drive.",
   "icons": {
-    "128": "/images/icon_128.png"
+    "128": "images/icon_128.png"
   },
   "developer": {
     "name": "Nicolas Garnier",

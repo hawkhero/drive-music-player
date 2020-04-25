@@ -39,7 +39,7 @@ a:link:hover {
 }
 
 .logo {
-	background: url('/images/marquee_tile.jpg') no-repeat;
+	background: url('images/marquee_tile.jpg') no-repeat;
     background-size: 640px;
     background-position: 50% -40px;
     width: 100%;
@@ -116,13 +116,13 @@ a:link:hover {
 	width: 15px;
 	padding-right: 0 !important;
     min-width: 15px;
-    cursor: url("/images/openhand.cur") 7 5, default !important;
+    cursor: url("images/openhand.cur") 7 5, default !important;
 }
 .song:HOVER .moveindicator {
-	background: url("/images/grippy_large.png") no-repeat 1px;
+	background: url("images/grippy_large.png") no-repeat 1px;
 }
 .song:nth-child(even):HOVER .moveindicator {
-    background: url("/images/grippy_large_dark.png") no-repeat 1px;
+    background: url("images/grippy_large_dark.png") no-repeat 1px;
     opacity: 0.8;
 }
 
@@ -233,7 +233,7 @@ a:link:hover {
 
 .song.playing .playindicator {
 	background-color: #eee;
-	background-image: url('/images/speaker.png');
+	background-image: url('images/speaker.png');
 	background-position: 8px 8px;
 	background-size: 23px 20px;
 	background-repeat: no-repeat;
@@ -621,7 +621,7 @@ div.jp-audio div.jp-type-single div.jp-progress {
           width: 100%;
       }
     .logo {
-        background: url('/images/marquee_tile_small.jpg') no-repeat;
+        background: url('images/marquee_tile_small.jpg') no-repeat;
         width: 100%;
         background-size: contain;
         padding-top: 22.35%;
